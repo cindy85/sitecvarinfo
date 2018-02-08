@@ -152,8 +152,8 @@ h1, h2, h3, h4, h5, h6{
 
 #header .top.solid {
     background: #475B6F;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #header .top h1{
